@@ -1,0 +1,1 @@
+# Minimal Nextflow pipeline to detect sex chromosomes from paired-end reads
